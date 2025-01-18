@@ -32,6 +32,8 @@ Proyectos sencillos, ideales para quienes están dando sus primeros pasos en el 
 Proyectos moderados, pensados para desarrolladores con experiencia básica que buscan retos.  
 
 ### 🔴 Avanzado  
-Proyectos complejos y desafiantes, perfectos para quienes desean poner a prueba sus habilidades al máximo.  
+Proyectos complejos y desafiantes, perfectos para quienes desean poner a prueba sus habilidades al máximo. 
+
+--- 
 
 🎉 **¡Explora, desarrolla y mejora tus habilidades!**  
