@@ -4,25 +4,48 @@
 
 ## 🚀 ¿Cómo usar este repositorio?
 
-1. **Explora** las carpetas según tu nivel de experiencia:
+1. **Explora** las carpetas organizadas por áreas y niveles:
+
+   - **Frontend**: Proyectos centrados en interfaces y experiencia de usuario.
+   - **Backend**: Proyectos enfocados en la lógica del servidor, APIs y bases de datos.
+   - **Colaborativos**: Proyectos diseñados para equipos y desarrollo en grupo.
+
+   Dentro de cada área encontrarás carpetas organizadas por nivel de dificultad:
 
    - 🟢 `1.Principiante/`
    - 🟡 `2.Intermedio/`
    - 🔴 `3.Avanzado/`
 
-2. Dentro de cada nivel, encontrarás proyectos organizados por categorías:
+   La estructura general es la siguiente:
 
-   - 🎨 **Frontend**: Proyectos centrados en interfaces y experiencia de usuario.
-   - 🔧 **Backend**: Proyectos enfocados en la lógica del servidor, APIs y bases de datos.
-   - 🤝 **Colaborativos**: Proyectos para equipos, ideales para practicar desarrollo en grupo.
+   ```plaintext
+   ideas-de-proyectos-devxp/
+   ├── 1.Frontend/
+   │   ├── 1.Principiante/
+   │   ├── 2.Intermedio/
+   │   └── 3.Avanzado/
+   ├── 2.Backend/
+   │   ├── 1.Principiante/
+   │   ├── 2.Intermedio/
+   │   └── 3.Avanzado/
+   ├── 3.Colaborativos/
+   │   ├── 1.Principiante/
+   │   ├── 2.Intermedio/
+   │   └── 3.Avanzado/
+   ├── plantillas/
+   │   └── plantilla-de-proyecto.md
+   ├── CONTRIBUTING.md
+   ├── LICENSE
+   ├── README.md
+   ```
 
-3. **Elige** un proyecto que te interese y revisa los detalles en su archivo correspondiente.
-4. **Desarrolla** tu solución basada en la idea propuesta.
-5. **Contribuye** al repositorio si tienes nuevas ideas. ¡Nos encantaría recibirlas! Consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber cómo hacerlo
+2. **Elige** un proyecto que te interese y revisa los detalles en su archivo correspondiente.
+3. **Desarrolla** tu solución basada en la idea propuesta.
+4. **Contribuye** al repositorio si tienes nuevas ideas. ¡Nos encantaría recibirlas! Consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber cómo hacerlo
 
 ## 🤝 Contribuciones
 
-🎯 Este repositorio se enriquece con las aportaciones de la comunidad.  
+🎯 Este repositorio se enriquece con las aportaciones de la comunidad.
 Si tienes ideas para nuevos proyectos:
 
 1. Revisa la plantilla en `plantillas/plantilla-de-proyecto.md`.
@@ -31,25 +54,25 @@ Si tienes ideas para nuevos proyectos:
 
 ## 📂 Categorías disponibles
 
-🔍 Las ideas están organizadas en tres niveles de dificultad, con proyectos clasificados en:
+🔍 Las ideas están organizadas en tres áreas principales, cada una con niveles de dificultad:
 
-### 🟢 Principiante
+### 1. **Frontend**
 
-- 🎨 **Frontend**
-- 🔧 **Backend**
-- 🤝 **Colaborativos**
+- 🟢 **Principiante**
+- 🟡 **Intermedio**
+- 🔴 **Avanzado**
 
-### 🟡 Intermedio
+### 2. **Backend**
 
-- 🎨 **Frontend**
-- 🔧 **Backend**
-- 🤝 **Colaborativos**
+- 🟢 **Principiante**
+- 🟡 **Intermedio**
+- 🔴 **Avanzado**
 
-### 🔴 Avanzado
+### 3. **Colaborativos**
 
-- 🎨 **Frontend**
-- 🔧 **Backend**
-- 🤝 **Colaborativos**
+- 🟢 **Principiante**
+- 🟡 **Intermedio**
+- 🔴 **Avanzado**
 
 ---
 
