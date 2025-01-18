@@ -1,29 +1,31 @@
-# [Título del proyecto]
+# Idea de Proyecto: [Nombre del Proyecto]
 
-## Descripción del proyecto
+## Descripción
 
-[Escribe aquí una breve descripción sobre el proyecto y su propósito.]
+[Una breve descripción del proyecto. Explica qué hace la aplicación, cómo se utilizaría, y qué problemas resolvería.]
 
-## Requerimientos principales
+## Características principales
 
-### Registro de usuarios
+- [Descripción de las funcionalidades clave del proyecto.]
 
-- [Indica cómo deben registrarse los usuarios, si aplica.]
+## Estructura y Flujo del Proyecto
 
-### Perfiles
+### Frontend
 
-- [Describe los perfiles de usuarios y su funcionalidad.]
+[Explica cómo debe estructurarse el frontend del proyecto, si aplica. Incluye detalles sobre la interfaz de usuario, diseño responsivo, interactividad, etc.]
 
-### Funcionalidades clave
+### Backend
 
-1. [Función o característica principal.]
-2. [Otra función o característica.]
+[Explica cómo debe estructurarse el backend del proyecto, si aplica. Incluye detalles sobre la base de datos, rutas de API, controladores, autenticación, etc.]
 
-### Características opcionales
+### Colaboración (si aplica)
 
-- [Lista de características adicionales que podrían incluirse.]
+[Si este es un proyecto colaborativo, explica cómo se trabajará en equipo, qué roles serán necesarios, cómo se gestionarán las tareas, etc.]
 
-## Recursos útiles
+## Nivel de dificultad
 
-- [Enlace a documentación](#)
-- [Enlace a tutorial](#)
+- [Selecciona el nivel de dificultad para este proyecto: Principiante, Intermedio, Avanzado.]
+
+## Recursos adicionales
+
+- [Links a recursos de aprendizaje, documentación o ejemplos que pueden ayudar a desarrollar este proyecto.]
