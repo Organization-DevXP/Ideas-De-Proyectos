@@ -29,9 +29,6 @@
    │   ├── 2.Intermedio/
    │   └── 3.Avanzado/
    ├── 3.Colaborativos/
-   │   ├── 1.Principiante/
-   │   ├── 2.Intermedio/
-   │   └── 3.Avanzado/
    ├── plantillas/
    │   └── plantilla-de-proyecto.md
    ├── CONTRIBUTING.md
@@ -69,10 +66,6 @@ Si tienes ideas para nuevos proyectos:
 - 🔴 **Avanzado**
 
 ### 3. **Colaborativos**
-
-- 🟢 **Principiante**
-- 🟡 **Intermedio**
-- 🔴 **Avanzado**
 
 ---
 
